@@ -13,3 +13,4 @@ filelock==3.19.1
 mpmath==1.3.0
 networkx==3.4.2
 pillow==11.3.0
+torchmetrics==1.8.0
